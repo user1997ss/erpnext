@@ -3,7 +3,8 @@
 
 frappe.ui.form.on('sqade', {
 	 refresh: function(frm) {
-		console.log("first")
+		console.log("first");
+		consloe.log("second");
 		console.log("github");
 	}
 });
