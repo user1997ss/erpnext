@@ -3,6 +3,6 @@
 
 frappe.ui.form.on('sqade', {
 	 refresh: function(frm) {
-		console.log("dsfss");
+		console.log("github");
 	}
 });
